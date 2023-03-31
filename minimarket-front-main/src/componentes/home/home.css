@@ -1,0 +1,27 @@
+.info {
+  margin-top: 15%;
+  transform: translateY(-15%);
+}
+.info h1,
+h2 {
+  font-size: 3em;
+  font-weight: 7000;
+  color: #fff;
+  letter-spacing: 2px;
+}
+
+.info p {
+  font-size: 3em;
+  font-weight: 7000;
+  color: #fff;
+  letter-spacing: 2px;
+}
+
+section {
+  padding-top: 100px;
+}
+
+.img-inicio {
+  max-width: 200px;
+  margin-left: 40%;
+}
